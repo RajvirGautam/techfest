@@ -29,7 +29,7 @@ export default function Navbar({ theme, setTheme }) {
 
           {/* Nav Links */}
           <nav className="flex gap-6 items-center text-sm font-medium">
-            <NavLink to="/" className={linkClass}>Home</NavLink>
+            <NavLink to="/" className={linkClass}>Hoe</NavLink>
             <NavLink to="/events" className={linkClass}>Events</NavLink>
             <NavLink to="/ideathon" className={linkClass}>Ideathon</NavLink>
             <NavLink to="/team" className={linkClass}>Team</NavLink>
