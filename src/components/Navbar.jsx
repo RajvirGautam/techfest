@@ -16,7 +16,7 @@ export default function Navbar({ theme, setTheme }) {
       {/* Desktop Navbar */}
       <header className="hidden md:flex sticky top-0 z-50">
         <div className="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between w-full
-          bg-white/30 dark:bg-white/10 backdrop-blur-lg border border-white/20
+          bg-white/20 dark:bg-dark-bg/20 backdrop-blur-lg border border-white/30 dark:border-gray-700/30 
           shadow-lg rounded-b-2xl">
           
           {/* Logo */}
@@ -29,7 +29,7 @@ export default function Navbar({ theme, setTheme }) {
 
           {/* Nav Links */}
           <nav className="flex gap-6 items-center text-sm font-medium">
-            <NavLink to="/" className={linkClass}>Hoe</NavLink>
+            <NavLink to="/" className={linkClass}>Home</NavLink>
             <NavLink to="/events" className={linkClass}>Events</NavLink>
             <NavLink to="/ideathon" className={linkClass}>Ideathon</NavLink>
             <NavLink to="/team" className={linkClass}>Team</NavLink>
