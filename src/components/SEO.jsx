@@ -5,7 +5,7 @@ export default function SEO({ title, description }) {
   return (
     <Helmet>
       {/* Standard metadata tags */}
-      <title>{`${title} | SRIJAN 2025`}</title>
+      <title>{`${title} | AAROHAN 2025`}</title>
       <meta name='description' content={description} />
       {/* End standard metadata tags */}
     </Helmet>
