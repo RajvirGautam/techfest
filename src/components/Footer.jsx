@@ -36,7 +36,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="text-center text-xs text-slate-500 mt-10 border-t border-slate-200 dark:border-slate-700 pt-6">
-        Designed & Developed with ❤️ by Atishay Jain & Rajvir Gautam | © 2025 All Rights Reserved.
+        Designed & Developed with ❤️ by Rajvir Gautam & Atishay Jain | © 2025 All Rights Reserved.
       </div>
     </footer>
   );
