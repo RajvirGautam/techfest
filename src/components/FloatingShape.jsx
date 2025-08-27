@@ -7,7 +7,7 @@ export default function Footer() {
     <footer className="bg-slate-100 dark:bg-slate-900 text-slate-600 dark:text-slate-400 py-12 px-4">
       <div className="max-w-7xl mx-auto grid md:grid-cols-3 gap-8">
         <div className="md:col-span-1">
-          <h3 className="text-xl font-bold mb-4 text-slate-900 dark:text-white">SRIJAN 2025</h3>
+          <h3 className="text-xl font-bold mb-4 text-slate-900 dark:text-white">AAROHAN 2025</h3>
           <p className="text-sm">The annual technical festival of Shri G.S. Institute of Technology & Science, Indore.</p>
           <p className="text-sm mt-2">23, Sir M. Visvesvaraya Marg, Indore, MP 452003</p>
         </div>
