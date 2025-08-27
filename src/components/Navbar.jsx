@@ -24,7 +24,7 @@ export default function Navbar({ theme, setTheme }) {
             <div className="w-10 h-10 bg-primary-light rounded-lg flex items-center justify-center text-white font-bold text-lg shadow-md">
               S
             </div>
-            <div className="text-sm font-bold tracking-wider">SRIJAN 2025</div>
+            <div className="text-sm font-bold tracking-wider">AAROHAN 2025</div>
           </NavLink>
 
           {/* Nav Links */}
